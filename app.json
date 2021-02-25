@@ -1,0 +1,12 @@
+{
+  "name": "juros-react-native",
+  "displayName": "juros-react-native",
+  "expo": {
+    "name": "juros-react-native",
+    "slug": "juros-react-native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
